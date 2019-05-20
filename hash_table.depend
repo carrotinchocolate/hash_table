@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1558349878 source:c:\users\dashiloid\documents\info_project\hash_table\hash_table.cpp
+	"hash_table.h"
+	<iostream>
+	<vector>
+	<string>
+
+1558349861 c:\users\dashiloid\documents\info_project\hash_table\hash_table.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1558350092 source:c:\users\dashiloid\documents\info_project\hash_table\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<fstream>
+	<string>
+	"hash_table.h"
+
